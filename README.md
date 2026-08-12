@@ -1,27 +1,21 @@
-# Twitter Sentiment Analysis
+# 🐦 Twitter Sentiment Analysis
 
-A sentiment analysis project for analyzing text and classifying sentiment.
+A web-based sentiment analysis project that analyzes text and presents sentiment-related results through an interactive interface.
 
-## 🚀 Live Demo
+## 🎯 Project Overview
 
-[Open the deployed application](https://sentimentanalysis-tawny.vercel.app/)
-
-## 📌 Project Overview
-
-This project demonstrates a sentiment analysis workflow through a web-based interface. It is designed to analyze text and present sentiment-related results in an accessible format.
+The project explores how natural language processing and sentiment analysis can be used to understand the emotional tone of text. It provides a simple interface for submitting text and viewing the resulting sentiment analysis.
 
 ## ✨ Features
 
 - Text-based sentiment analysis
 - Interactive web interface
-- Sentiment result visualization/presentation
-- Deployed and accessible online through Vercel
+- Clear presentation of sentiment results
+- Deployed web application
 
-## 🛠️ Technologies
+## 🌐 Live Demo
 
-- HTML
-- Python / data-analysis workflow content included in the exported project
-- Vercel
+[Try the live application](https://sentimentanalysis-tawny.vercel.app/)
 
 ## 📂 Project Structure
 
@@ -31,11 +25,19 @@ Twitter-Sentimental-Analysis/
 └── README.md
 ```
 
-## 🌐 Live Application
+## 🛠️ Technologies
 
-https://sentimentanalysis-tawny.vercel.app/
+- HTML
+- Python / sentiment-analysis workflow
+- Vercel for deployment
+
+## 💡 What I Learned
+
+- Working with text-based sentiment analysis
+- Presenting analysis results through a web interface
+- Deploying a small application for public access
 
 ## 👩‍💻 Author
 
 **Sneha Sharma**  
-GitHub: [SnehaSharma090](https://github.com/SnehaSharma090)
+GitHub: [@SnehaSharma090](https://github.com/SnehaSharma090)
